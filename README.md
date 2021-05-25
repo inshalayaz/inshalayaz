@@ -4,7 +4,6 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -12,7 +11,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-<a href="mailto:inshal.ayaz14@gmail.com"><b>email</b></a> 
+<a href="mailto:inshal.ayaz14@gmail.com"><b>Contact Me</b></a> 
 
 <i>Happy Coding!</i> 😊
 
