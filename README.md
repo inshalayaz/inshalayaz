@@ -26,17 +26,16 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 ---
 
-- 🔭 I’m currently a Student Looking FOr Internship
+- 🔭 I’m currently a Student Looking For Internship
 - 🌱 I’m currently learning React.js and Node.js
 
  
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
 <!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -66,7 +65,9 @@ Here are some ideas to get you started:
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
-
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
 
 
   <hr>
