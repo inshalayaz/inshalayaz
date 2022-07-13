@@ -67,6 +67,7 @@ Here are some ideas to get you started:
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 
 
   <hr>
